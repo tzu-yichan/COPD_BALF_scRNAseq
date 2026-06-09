@@ -1,12 +1,9 @@
-Analysis scripts used for COPD BALF scRNA-seq study.
+This repository contains scripts and metadata used for:
 
-Contents:
-
-- Quality control
-- Data integration
-- Cell type annotation
+- Single-cell RNA sequencing analysis of BALF cells
+- Quality control and data integration
+- Cell type annotation using SingleR
 - Macrophage re-clustering
 - Differential expression analysis
 - Hallmark GSEA
-- CellRank trajectory analysis
-- Figure generation
+- Visualization of single-cell analysis results

@@ -1,9 +1,16 @@
-This repository contains scripts and metadata used for:
+# Scripts
 
-- Single-cell RNA sequencing analysis of BALF cells
-- Quality control and data integration
-- Cell type annotation using SingleR
+This directory contains the main analysis pipeline used for:
+
+- Quality control
+- Doublet removal
+- Data integration
+- Cell type annotation
 - Macrophage re-clustering
 - Differential expression analysis
 - Hallmark GSEA
-- Visualization of single-cell analysis results
+- Visualization and figure generation
+
+Main script:
+
+- COPD_BALF_scRNAseq_pipeline.R

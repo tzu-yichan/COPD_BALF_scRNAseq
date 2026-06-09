@@ -4,7 +4,7 @@ Code repository accompanying:
 
 **Lipid Alterations in Alveolar Surfactant Compromise Alveolar Macrophage Immune Function in COPD**
 
-## Study overview
+## Study Overview
 
 This repository contains scripts and metadata used for:
 
@@ -16,7 +16,7 @@ This repository contains scripts and metadata used for:
 - Hallmark gene set enrichment analysis (GSEA)
 - Visualization of single-cell transcriptomic data
 
-## Study cohorts
+## Study Cohorts
 
 - Control (n = 5)
 - COPD-quit (n = 4)
@@ -24,24 +24,9 @@ This repository contains scripts and metadata used for:
 
 Bronchoalveolar lavage fluid (BALF) cells from subjects within each clinical group were pooled prior to library preparation and sequenced using the 10x Genomics Fixed RNA Profiling platform.
 
-## Repository structure
+## Repository Structure
 
 ```text
 scripts/   Analysis scripts
 metadata/  Cell-level annotations and metadata
 figures/   Figure resources
-```
-
-## Data availability
-
-Raw and processed sequencing data have been deposited in the Gene Expression Omnibus (GEO) repository. The accession number will be updated upon completion of the submission process.
-
-## Software environment
-
-- R (v4.4.2)
-- Seurat (v5.3.0)
-- SingleR
-- clusterProfiler
-- AUCell
-- CellChat
-- DoubletFinder

@@ -30,3 +30,20 @@ Bronchoalveolar lavage fluid (BALF) cells from subjects within each clinical gro
 scripts/   Analysis scripts
 metadata/  Cell-level annotations and metadata
 figures/   Figure resources
+```
+
+## Data Availability
+
+Raw and processed sequencing data have been submitted to the Gene Expression Omnibus (GEO) repository. The accession number will be updated upon completion of the submission process.
+
+## Software Environment
+
+- R (v4.4.2)
+- Seurat (v5.3.0)
+- SingleR
+- DoubletFinder
+- clusterProfiler
+- AUCell
+- CellChat
+
+
